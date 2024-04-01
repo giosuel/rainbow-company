@@ -1,5 +1,5 @@
 # R A I N B O W
-![logo](logo.gif)
+![logo](https://gcdnb.pbrd.co/images/H61vCYHAakaS.gif)
 
 ## Credits
 
